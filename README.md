@@ -1,4 +1,4 @@
-# Hellosu, Mang here, [IT Professional](https://www.linkedin.com/in/mangnilian) and Rhythm Game Enthusiast
+# Hellosu, Mang here, [Network Engineer](https://www.linkedin.com/in/mangnilian) and Rhythm Game Enthusiast
 
 ## Information Technology Projects:
 
