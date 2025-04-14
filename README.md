@@ -5,7 +5,6 @@
 - **osTicket (Help Desk Ticketing System)**
   - [Prerequisites and Installation](https://github.com/rekunan/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/rekunan/post-install-config)
-  - [Ticket Lifecycle Examples](https://github.com/rekunan/ticket-lifecycle)
 - **Microsoft Azure**
   - [Configuring Active Directory within Azure VMs](https://github.com/rekunan/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rekunan/azure-network-protocols)
